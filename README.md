@@ -49,7 +49,7 @@ The program includes interactive console menus enabling full runtime control ove
 
 ---
 
-## 🕹️ Menu Interface Overview
+##  Menu Interface Overview
 
 Upon execution, interact with the system using numerical choices (1-7):
 * **1-3:** General device state evaluation and master power switches.
