@@ -16,7 +16,6 @@ The objective of this project is to build a smart device ecosystem using Python 
 
 The program includes interactive console menus enabling full runtime control over every device's state, parameters, and power configurations.
 
----
 
 ##  OOP Concepts Implemented
 
@@ -24,7 +23,6 @@ The program includes interactive console menus enabling full runtime control ove
 * **Inheritance:** Extends structural features from the parent `SmartDevice` class down to domain-specific appliance types using `super().__init__()`.
 * **Polymorphism:** Customizes data reporting by overriding the parent `display_info()` routine within specialized subclasses.
 
----
 
 ## How to Run the Program
 
